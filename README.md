@@ -27,6 +27,7 @@ Then we create a google event for every valid input given
 -decide what color the event will be
 -reduce code size
 -choose google calendar
+-
 
 
 
